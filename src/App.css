@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background-image: url("https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/v1555306477/shape/mentalfloss/online-groceries-primary.png?itok=YdDBRd5L");
+  color: #1912de;
+  text-shadow: #020813 2px ;
 }
 
 .App-logo {
